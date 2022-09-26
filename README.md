@@ -1,8 +1,11 @@
-# FIT2102 Assignment 1
+## Overview
+As a part of my university assignment, I was asked to create a Frogger Game from scratch using the same functionalities as the actual game.
+This project was done entirely in TypeScript with some HTML and CSS.
 
-All of your changes, code, and game files should be in the src folder.
+## User Interface
 
-## Development
+
+## Running code
 
 There are two ways to run the code:
 
@@ -11,13 +14,4 @@ There are two ways to run the code:
 - Run `npm install`
 - Run `npm run build`
 - Open the html file dist/index.html (NOT src/index.html)
-
-2. Use the development server
-
-- Run `npm install`
-- Run `npm run dev`, this will automatically open a web page at localhost:4000
-- Open localhost:4000 in your browser if it didn't already
-
-The development server will have some additional features that help with the
-development process, but are not essential.
 
